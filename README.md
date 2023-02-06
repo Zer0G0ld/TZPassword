@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 ## TZPassword
-<p>Código e licença na branch master</p>
 
 # Instalação:
 
